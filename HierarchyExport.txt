@@ -1,0 +1,453 @@
+- Main Camera
+- Canvas
+  - ActionPanel (CardActionPanelManager.cs)
+    - ButtonINFO
+      - INFO
+    - ButtonUSE
+      - USE
+  - home menu
+    - shop panel
+      - Scroll View
+        - Viewport
+          - Content
+            - daylicardspanel (DailyCardsManager.cs)
+              - DailyCardSlot1 (DailyCardSlot.cs)
+                - CardUIShopGold1 (CardUIShop.cs)
+                  - Image
+                  - levelpanel
+                    - Slider
+                      - Background
+                        - numbercard
+                      - Fill Area
+                        - Fill
+                      - Handle Slide Area
+                    - levelpanelfilter
+                    - arrow
+                  - cardicon
+                  - border
+                    - borderbase
+                    - borderlegendary
+                    - borderdivine
+                  - price
+                  - name card
+                  - Button
+                    - Text (TMP)
+                  - level
+                - price
+                - Button
+                  - Text (TMP)
+              - DailyCardSlot2 (DailyCardSlot.cs)
+                - CardUIShopGold2 (CardUIShop.cs)
+                  - Image
+                  - levelpanel
+                    - Slider
+                      - Background
+                        - numbercard
+                      - Fill Area
+                        - Fill
+                      - Handle Slide Area
+                    - levelpanelfilter
+                    - arrow
+                  - cardicon
+                  - border
+                    - borderbase
+                    - borderlegendary
+                    - borderdivine
+                  - price
+                  - name card
+                  - Button
+                    - Text (TMP)
+                  - level
+                - price
+                - Button
+                  - Text (TMP)
+              - DailyCardSlot3 (DailyCardSlot.cs)
+                - CardUIShopGold3 (CardUIShop.cs)
+                  - Image
+                  - levelpanel
+                    - Slider
+                      - Background
+                        - numbercard
+                      - Fill Area
+                        - Fill
+                      - Handle Slide Area
+                    - levelpanelfilter
+                    - arrow
+                  - cardicon
+                  - border
+                    - borderbase
+                    - borderlegendary
+                    - borderdivine
+                  - price
+                  - name card
+                  - Button
+                    - Text (TMP)
+                  - level
+                - price
+                - Button
+                  - Text (TMP)
+            - daylicardsgems (DailyCardsManager.cs)
+              - DailyCardGems1 (DailyCardSlot.cs)
+                - CardUIShopGold1 (CardUIShop.cs)
+                  - Image
+                  - levelpanel
+                    - Slider
+                      - Background
+                        - numbercard
+                      - Fill Area
+                        - Fill
+                      - Handle Slide Area
+                    - levelpanelfilter
+                    - arrow
+                  - cardicon
+                  - border
+                    - borderbase
+                    - borderlegendary
+                    - borderdivine
+                  - price
+                  - name card
+                  - Button
+                    - Text (TMP)
+                  - level
+                - price
+                - Button
+                  - Text (TMP)
+              - DailyCardGems2 (DailyCardSlot.cs)
+                - CardUIShopGold2 (CardUIShop.cs)
+                  - Image
+                  - levelpanel
+                    - Slider
+                      - Background
+                        - numbercard
+                      - Fill Area
+                        - Fill
+                      - Handle Slide Area
+                    - levelpanelfilter
+                    - arrow
+                  - cardicon
+                  - border
+                    - borderbase
+                    - borderlegendary
+                    - borderdivine
+                  - price
+                  - name card
+                  - Button
+                    - Text (TMP)
+                  - level
+                - price
+                - Button
+                  - Text (TMP)
+              - DailyCardGems3 (DailyCardSlot.cs)
+                - CardUIShopGold3 (CardUIShop.cs)
+                  - Image
+                  - levelpanel
+                    - Slider
+                      - Background
+                        - numbercard
+                      - Fill Area
+                        - Fill
+                      - Handle Slide Area
+                    - levelpanelfilter
+                    - arrow
+                  - cardicon
+                  - border
+                    - borderbase
+                    - borderlegendary
+                    - borderdivine
+                  - price
+                  - name card
+                  - Button
+                    - Text (TMP)
+                  - level
+                - price
+                - Button
+                  - Text (TMP)
+            - Text (TMP)
+            - Text (TMP) (1)
+            - shopItemPrefab
+              - Panel
+                - Image
+                - Name
+                - price
+                - gold/gems
+                - Text (TMP)
+                - buy
+                - INFO
+                  - Text (TMP)
+            - shopItemPrefab (1)
+              - Panel
+                - Image
+                - Name
+                - price
+                - gold/gems
+                - Text (TMP)
+                - buy
+                - INFO
+                  - Text (TMP)
+            - shopItemPrefab (2)
+              - Panel
+                - Image
+                - Name
+                - price
+                - gold/gems
+                - Text (TMP)
+                - buy
+                - INFO
+                  - Text (TMP)
+            - shopItemPrefab (1)
+              - Panel
+                - Image
+                - Name
+                - price
+                - gold/gems
+                - Text (TMP)
+                - buy
+                - INFO
+                  - Text (TMP)
+        - Scrollbar Vertical
+          - Sliding Area
+            - Handle
+    - homepanel
+      - barrasoprahome
+        - MenuButton
+        - Button (3)
+        - Button (2)
+          - Image
+          - Nameplayer
+      - unlockbaule1
+      - unlockbaule2
+      - unlockbaule3
+      - unlockbaule4
+      - startbattle button
+      - Button leaguepanel
+      - Panel
+        - Button
+    - cardpanel
+      - Scroll View
+        - Viewport
+          - Content
+            - deck
+              - DeckSelector
+                - ButtonDeck1
+                - ButtonDeck2
+                - ButtonDeck3
+                - ButtonDeck4
+                - ButtonDeck5
+              - DECK1
+                - DeckCard1 (DeckSlotUI.cs)
+                - DeckCard2 (DeckSlotUI.cs)
+                - DeckCard3 (DeckSlotUI.cs)
+                - DeckCard4 (DeckSlotUI.cs)
+                - DeckCard5 (DeckSlotUI.cs)
+                - DeckCard6 (DeckSlotUI.cs)
+                - DeckCard7 (DeckSlotUI.cs)
+                - DeckCard8 (DeckSlotUI.cs)
+              - DECK2
+                - DeckCard1 (DeckSlotUI.cs)
+                - DeckCard2 (DeckSlotUI.cs)
+                - DeckCard3 (DeckSlotUI.cs)
+                - DeckCard4 (DeckSlotUI.cs)
+                - DeckCard5 (DeckSlotUI.cs)
+                - DeckCard6 (DeckSlotUI.cs)
+                - DeckCard7 (DeckSlotUI.cs)
+                - DeckCard8 (DeckSlotUI.cs)
+              - DECK3
+                - DeckCard1 (DeckSlotUI.cs)
+                - DeckCard2 (DeckSlotUI.cs)
+                - DeckCard3 (DeckSlotUI.cs)
+                - DeckCard4 (DeckSlotUI.cs)
+                - DeckCard5 (DeckSlotUI.cs)
+                - DeckCard6 (DeckSlotUI.cs)
+                - DeckCard7 (DeckSlotUI.cs)
+                - DeckCard8 (DeckSlotUI.cs)
+              - DECK4
+                - DeckCard1 (DeckSlotUI.cs)
+                - DeckCard2 (DeckSlotUI.cs)
+                - DeckCard3 (DeckSlotUI.cs)
+                - DeckCard4 (DeckSlotUI.cs)
+                - DeckCard5 (DeckSlotUI.cs)
+                - DeckCard6 (DeckSlotUI.cs)
+                - DeckCard7 (DeckSlotUI.cs)
+                - DeckCard8 (DeckSlotUI.cs)
+              - DECK5
+                - DeckCard1 (DeckSlotUI.cs)
+                - DeckCard2 (DeckSlotUI.cs)
+                - DeckCard3 (DeckSlotUI.cs)
+                - DeckCard4 (DeckSlotUI.cs)
+                - DeckCard5 (DeckSlotUI.cs)
+                - DeckCard6 (DeckSlotUI.cs)
+                - DeckCard7 (DeckSlotUI.cs)
+                - DeckCard8 (DeckSlotUI.cs)
+            - CardCollection (CardCollectionController.cs)
+              - CardUI (CardUI.cs)
+                - levelpanel
+                - Slider
+                  - Background
+                    - numbercard
+                  - Fill Area
+                    - Fill
+                  - Handle Slide Area
+                - levelpanelfilter
+                - cardicon
+                - LevelIcon
+                  - leveltext
+                - border
+                  - borderbase
+                  - borderlegendary
+                  - borderdivine
+                - ManaImage
+                  - ManaCoast
+                - arrow
+                - NameText
+                - cardselect
+        - Scrollbar Horizontal
+          - Sliding Area
+            - Handle
+        - Scrollbar Vertical
+          - Sliding Area
+            - Handle
+    - CardDetailPanel (CardDetailPanel.cs)
+      - StatsPrefab (StatRow.cs)
+        - background
+          - Icon
+          - LabelText 
+          - ValueText
+      - imagepanelbase
+        - baseimage
+        - baseimageòegendary
+        - baseimagedivine
+        - CARD
+          - levelpanel
+          - Slider
+            - Background
+            - Fill Area
+              - Fill
+            - Handle Slide Area
+              - Handle
+            - cardnumber
+          - levelpanelfilter
+          - border
+            - Cardimage
+            - borderbase
+            - borderlegendary
+            - borderdivine
+          - ManaImage
+            - ManaCoast
+        - GameObject
+      - ScrollRect
+        - Viewport
+          - Content
+            - statspage
+              - contentstats
+                - destra
+                - sinistra
+            - videopage
+              - Image
+            - descriptionpage
+              - ability text
+        - Scrollbar Horizontal
+          - Sliding Area
+            - Handle
+      - NameCardtext
+      - RarityICON
+        - RarityTEXT
+        - RarityfissoTEXT
+      - TargetICON
+        - TargetTEXT
+        - TargetfissoTEXT
+      - TypeICON
+        - TypeTEXT
+        - TypefissoTEXT
+      - Closecarddetailpanel
+      - Button
+        - Text (TMP)
+      - Button (1)
+        - Text (TMP)
+    - clanpanel (ClanPanelManager.cs)
+      - toptabs
+      - profiloclanpanel
+        - Profilo
+          - infoprofile
+            - playerinfo
+              - Text (TMP)
+              - Text (TMP) (1)
+            - playerinfo (1)
+              - Text (TMP)
+            - playerinfo (2)
+              - Text (TMP)
+            - Image
+          - cardprofile
+            - Scroll View (CardProfileList.cs)
+              - Viewport
+                - Content
+                  - CardProfileEntry (CardProfileEntry.cs)
+                    - cardicon
+                    - border
+                      - borderbase
+                      - borderlegendary
+                      - borderdivine
+                    - leveliconcardprofile
+                      - leveliconcardprofiletext
+              - Scrollbar Horizontal
+                - Sliding Area
+                  - Handle
+              - Scrollbar Vertical
+                - Sliding Area
+                  - Handle
+      - IlMioClanPanel
+        - Image
+      - ClanPanelContainer
+        - subtabsclan (ClanSubTabColorController.cs)
+          - bachecaclan
+            - Text (TMP)
+          - cercaclan
+            - Text (TMP)
+          - preferiticlan
+            - Text (TMP)
+      - Button
+        - Text (TMP)
+        - Button (1)
+          - Text (TMP)
+          - Button (2)
+            - Text (TMP)
+    - classificate panel
+    - barrasotto
+      - Shopbutton
+        - shoptext
+      - Carte
+        - cartetext
+      - HOME
+        - battletext
+      - Clan button (3)
+        - clantext
+      - ClassificaButton
+        - classtext
+    - barrasopra
+      - gems
+        - Button
+      - money
+        - Button
+      - money (1)
+        - Button
+    - battle panel
+      - Button
+      - Button (1)
+      - Button (2)
+      - Button (3)
+      - Button (4)
+      - battlegrid
+        - BattleCell
+      - Button
+- EventSystem
+- PoolManagerCard (CardPoolManager.cs)
+  - CardUIPool
+- CardProfilePool (CardProfilePoolManager.cs)
+  - cardprofilepoolparents
+- PoolManagerShop (ShopPoolManagerMulti.cs)
+  - ShopUIPool
+- cardselectionmanager (DeckManagerUI.cs)
+- DeckManager (DeckManagerUI.cs)
+- close panel (ClosePanelButton.cs)
+- CardDatabaseHolder (CardDatabaseHolder.cs)
+- PanelManager (PanelSwitcher.cs)
+- CurrencyManager (CurrencyManager.cs)

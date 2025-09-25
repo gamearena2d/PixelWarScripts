@@ -1,0 +1,256 @@
+- cardUI/
+  - 1.png
+  - 1080x760.png
+  - 11.png
+  - 2.png
+  - 22.png
+  - 2222.png
+  - 23-235200_for-anyone-that-wants-to-make-clash-royale.png
+  - 3.png
+  - 33.png
+  - 540x380.png
+  - 540x380legendary.png
+  - 540x380normal.png
+  - 540x380white.png
+  - basestatsicon.png
+  - bordshopcard.png
+  - bordshopcard2.png
+  - bordshopcardgreen.png
+  - buco.png
+  - delete-button-png-28556.png
+  - Detailpanelcardability.png
+  - level cardui.png
+  - levelpage2.png
+  - levelpagefilter.png
+  - rarainfo.png
+  - upgrade.png
+  - wwww.png
+  - boosterpackicon/
+    - boosterdivine600.png
+    - boosterlegendary600.png
+    - boosternormal600.png
+  - icon ability/
+    - 2.png
+    - barrier.png
+    - life.png
+    - mana 1.png
+    - mana.png
+    - mana2.png
+    - range.png
+    - Senza titolo-1.png
+    - speed.png
+- script/
+  - BattlefieldCell.cs
+  - CardUIShopController.cs
+  - ClosePanelButton.cs
+  - CurrencyManager.cs
+  - FileLogger.cs
+  - LeagueManager.cs
+  - LoginManager.cs
+  - New Actions 1.inputactions
+  - New Actions.inputactions
+  - PanelSwitcher.cs
+  - PlayerManager.cs
+  - SaveLoadManager.cs
+  - StatsRow.cs
+  - UpgradeRequirements.cs
+  - 3dobject/
+  - Cards/
+    - Card.cs
+    - CardActionPanelManager.cs
+    - CardCollectionController.cs
+    - CardDatabase.cs
+    - CardDatabaseHolder.cs
+    - CardDetailPanel.cs
+    - CardEnums.cs
+    - CardPoolManager.cs
+    - CardProgressManager.cs
+    - CardSelectionManager.cs
+    - CardUI.cs
+    - CardUIManager.cs
+    - DeckManagerUI.cs
+    - DeckSlotUI.cs
+  - clan/
+    - CardProfileEntry.cs
+    - CardProfileList.cs
+    - CardProfilePoolManager.cs
+    - ClanData.cs
+    - ClanEntryUI.cs
+    - ClanManager.cs
+    - ClanPanelManager.cs
+    - ClanSubTabColorController.cs
+    - MemberEntryUI.cs
+    - MyClanUI.cs
+  - maps/
+    - Cell.cs
+    - DeckUIManager.cs
+    - GridManager.cs
+    - Projectile.cs
+    - StructureBase.cs
+    - StructureBehaviour.cs
+    - UnitBase.cs
+    - UnitBehaviour.cs
+  - SHOP/
+    - CardPackAsset.cs
+    - CardPackManager.cs
+    - CardUIShop.cs
+    - DailyCardSlot.cs
+    - DailyCardsManager.cs
+    - RewardManager.cs
+    - ShopEnums.cs
+    - ShopItemUI.cs
+    - ShopManager.cs
+    - ShopOffer.cs
+    - ShopPoolManagerMulti.cs
+    - singlecard.asset
+  - UI/
+- home/
+  - 2.jpg
+  - 2222.jpg
+  - asfsafsffsf.jpg
+  - barradeck.jpg
+  - BATTLE.png
+  - Booster Pack Template EX.jpg
+  - botdivina.png
+  - buy top key.png
+  - card add deck.png
+  - card pack open2.png
+  - cardlock2.png
+  - centro 1.png
+  - close.png
+  - deck1.png
+  - deck2.png
+  - deck25.png
+  - deck3.png
+  - deck4.png
+  - deck5 1.png
+  - deck5.png
+  - deckbar.jpg
+  - friends2.png
+  - gold 1.png
+  - gold.png
+  - iconpixel.jpg
+  - iconprofile.png
+  - infocardleague.png
+  - menu.png
+  - minionlv1.png
+  - minionn1.png
+  - money 1.png
+  - pacchetto.png
+  - pixel war icon2.png
+  - Senza 23.jpg
+  - Senza 25.jpg
+  - Senza tito6lo-2.psd
+  - Senza titolo-1 1.png
+  - Senza titolo-15 2.png
+  - Senza titolo-1-Recuperato.png
+  - Senza titolo-2.jpg
+  - Senza titolo-2.png
+  - Senza titolo-4.png
+  - Senza titolo-7.jpg
+  - Sesnza titolo-4.png
+  - sfasafsa.png
+  - sfondo pixel 3.jpg
+  - sotto 1.png
+  - sottodeck.png
+  - sottolegge.png
+  - spped1.png
+  - target.png
+  - tasto aggiungi.png
+  - tastogammoney.png
+  - top.png
+  - TOPCARDS.png
+  - toplegg.png
+  - videoepica.png
+  - videorara 1.png
+  - violawallpaper.jpg
+  - vita1.png
+  - www.png
+  - barrasotto/
+    - asfasafs.png
+    - barrasotto.png
+    - barrasottodark.jpg
+    - barrasottodark.png
+    - barrasottsodark.jpg
+    - battle5 1.png
+    - card5.png
+    - coppe3 1.png
+    - shield5 1.png
+    - shop3.png
+  - clan/
+    - base infoclan 1.png
+    - clan buttongrey.png
+    - clanbuttonwhite.png
+    - clanpanel1.png
+    - clanpanel2.png
+    - clanpanel3.png
+    - leveliconcardprofile 1.png
+    - my info clan.png
+    - my info clan2.png
+    - my info clan3.png
+  - leaguepanel/
+    - 14214.png
+    - angelico1.png
+    - asfasf.png
+    - big logo.png
+    - biglogo.png
+    - bronze.png
+    - bronzo1.png
+    - cel.png
+    - cristallo1.png
+    - diam.png
+    - div.png
+    - gbig.png
+    - gdsgdsgdgssd.png
+    - gelat.png
+    - gold 1.png
+    - gold.png
+    - lega celestiale.png
+    - logo nome 1.png
+    - platinoe.png
+    - silver1.png
+    - silverpanel 1.png
+    - silverpanel.png
+    - stemma legno.png
+    - wqrqwr.png
+  - login/
+    - apple.png
+    - facebook.png
+    - google.png
+    - isntagram.png
+    - mail.png
+    - qq.png
+    - wechat.png
+- resources/
+  - cardicon/
+  - cards/
+    - 540x380.jpg
+    - arcere.asset
+    - Barrier.asset
+    - barrier.jpg
+    - cannone.asset
+    - carcere.jpg
+    - CardDatabase.asset
+    - dark-sorcerer-girl-full-body.jpg
+    - fuciliere 1.asset
+    - fuciliere 2.asset
+    - fuciliere 3.asset
+    - fuciliere 4.asset
+    - fuciliere 5.asset
+    - fuciliere 6.asset
+    - fuciliere.asset
+    - fulmine 1.asset
+    - fulmine.asset
+    - golem 1.asset
+    - golem 2.asset
+    - golem.asset
+    - magadivina image.jpg
+    - mago.asset
+    - mago.jpg
+    - sss.jpg
+    - ssssss.jpg
+    - strega regina.asset
+    - tank.jpg
+    - warrior.asset
+    - wrwr.jpg
+  - shop/
