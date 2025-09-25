@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8577307085a4afc42aa86ca7f1897da0, type: 3}
+  m_Name: singlecard
+  m_EditorClassIdentifier: 
+  OfferName: SingleCard
+  Type: 1
+  Rarity: 0
+  Currency: 0
+  Price: 0
+  CardRef: {fileID: 0}
+  CardCopies: 0
+  MaxPurchases: 0
+  TotalCards: 0
+  RareCount: 0
+  EpicCount: 0
+  ChanceLegendary: 0
+  RewardGold: 0
+  RewardGems: 0
+  ChestPrefab: {fileID: 0}
+  Icon: {fileID: 0}
