@@ -33,6 +33,10 @@ public class PlayerData
     // 📦 Collezione carte
     public List<PlayerCardProgress> cardCollection = new List<PlayerCardProgress>();
 
+    // 📊 Nuovi contatori clan
+    public int TotalDonations = 0;
+    public int TotalReceived = 0;
+
     // 🔍 Utility carte
     public bool IsCardUnlocked(string cardName)
     {
@@ -105,6 +109,17 @@ public class PlayerData
             league = "Master";
         else
             league = "Legendary";
+    }
+
+    // 📦 Gestione donazioni e carte ricevute
+    public void AddDonation(int amount)
+    {
+        TotalDonations += amount;
+    }
+
+    public void AddReceivedCards(int amount)
+    {
+        TotalReceived += amount;
     }
 }
 
